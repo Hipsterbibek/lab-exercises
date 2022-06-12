@@ -1,2 +1,2 @@
-Landscape
-![screenshot of tablet](HelloToast.gif)
+
+![screenshot](hellotoast.gif)
